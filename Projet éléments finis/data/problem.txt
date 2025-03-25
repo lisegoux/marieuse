@@ -1,0 +1,9 @@
+Type of problem    :  Planar strains 
+Young modulus      :  200e+9  
+Poisson ratio      :  0.27   
+Mass density       :  7850 
+Gravity-X          :  0.0000000e+00  
+Gravity-Y          :  9.8100000e+00  
+Boundary condition :  Dirichlet-XY   =  0.0000000e+00,  0.0000000e+00  : Base
+Boundary condition :  Neumann-Y     =  4.1200000e+02,            nan  : HorizontalZone
+Boundary condition :  Neumann-X     =  1.7700000e+02,            nan  : VerticalZone
